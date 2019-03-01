@@ -16,5 +16,5 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ### 2019
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271)
 
-### 2019
+### 2018
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
