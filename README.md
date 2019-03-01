@@ -2,7 +2,7 @@
 A collection of research papers, codes, tutorials and blogs on ML carried out in a federated manner (distributed;decentralized).
 
 ## Contents
-* [Research Papers](https://github.com/tushar-semwal/awesome-federated-computing#resources)
+* [Research Papers](#resources)
   * [2019]()
   * [2018]()
   * [2017]()
