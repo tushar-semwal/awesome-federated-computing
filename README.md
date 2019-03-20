@@ -22,13 +22,20 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ## Research Papers
 ### 2019
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271)
+* [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
 
 ### 2018
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
 * [Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf)
+* [Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582)
 
 ### 2017
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
+* [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557)
+
+### 2016
+* [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
+* [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
 
 ## Libraries
 * [PySyft - Github](https://github.com/OpenMined/PySyft)
