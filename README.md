@@ -40,8 +40,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
 
 ## Libraries
-* [PySyft - Github](https://github.com/OpenMined/PySyft)
-* [Tensorflow Federated - TFF](https://www.tensorflow.org/federated)
+* [PySyft - Github](https://github.com/OpenMined/PySyft) - A PyTorch based library.
+* [Tensorflow Federated - TFF](https://www.tensorflow.org/federated) - A library on top of Tensorflow.
 * [Tensorflow Federated - Github](https://github.com/tensorflow/federated)
 
 ## Tutorials
