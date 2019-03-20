@@ -1,6 +1,8 @@
 # awesome-federated-computing
 A collection of research papers, codes, tutorials and blogs on ML carried out in a federated manner (distributed;decentralized).
+
 **Maintainer** - [Tushar Semwal](https://github.com/tushar-semwal)
+
 ## Contents
 * [Blogs](#blogs)
 * [Research Papers](#resources)
