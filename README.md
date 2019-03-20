@@ -33,6 +33,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ## Libraries
 * [PySyft](https://github.com/OpenMined/PySyft)
 * [Tensorflow Federated - TFF](https://www.tensorflow.org/federated)
+* [Tensorflow Federated - Github](https://github.com/tensorflow/federated)
 
 ## Tutorials
 * [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
