@@ -2,15 +2,22 @@
 A collection of research papers, codes, tutorials and blogs on ML carried out in a federated manner (distributed;decentralized).
 
 ## Contents
+* [Blogs](#blogs)
 * [Research Papers](#resources)
   * [2019](#2019)
   * [2018](#2018)
   * [2017](#2017)
   * [2016](#2016)
+* [Libraries](#libraries)
 * [Tutorials](#tutorials)
-* [Blogs](#blogs)
-* [Codes](#codes)
 * [Datasets](#datasets)
+
+## Blogs
+* [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
+* [An Introduction to Federated Learning](http://vision.cloudera.com/an-introduction-to-federated-learning/)
+* [Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html)
+* [Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
+* [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5)
 
 ## Research Papers
 ### 2019
@@ -18,3 +25,18 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ### 2018
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
+* [Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf)
+
+### 2017
+* [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629)
+
+## Libraries
+* [PySyft](https://github.com/OpenMined/PySyft)
+* [Tensorflow Federated - TFF](https://www.tensorflow.org/federated)
+
+## Tutorials
+* [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
+* [TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification) 
+
+## Datasets
+* [LEAF](https://github.com/TalwalkarLab/leaf)
