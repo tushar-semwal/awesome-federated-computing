@@ -4,8 +4,6 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 **Maintainer** - [Tushar Semwal](https://github.com/tushar-semwal)
 
 ## Contents
-- [Awesome Federated Computing ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-federated-computing-awesomehttpsgithubcomsindresorhusawesome)
-  - [Contents](#contents)
   - [Blogs](#blogs)
   - [Research Papers](#research-papers)
     - [2019](#2019)
