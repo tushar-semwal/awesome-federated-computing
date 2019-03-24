@@ -23,7 +23,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Research Papers
 ### 2019
-* [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271)
+* [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC.
 * [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
 * [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019.
   
@@ -32,7 +32,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf)
 * [Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582)
 * [Distributed Fine-tuning of Language Models on Private Data](https://openreview.net/pdf?id=HkgNdt26Z), ICLR 2018.
-* 
+* [When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom 2018.
 ### 2017
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017.
 * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557)
