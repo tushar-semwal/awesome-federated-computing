@@ -28,7 +28,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Research Papers
 ### 2019
-* [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271)
+* [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC.
 * [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
 * [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019. [[Code](https://github.com/shaoxiongji/fed-att)]
 * [Federated Learning of Out-of-Vocabulary Words](https://arxiv.org/pdf/1903.10635.pdf)
@@ -40,14 +40,13 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf)
 * [Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582)
 * [Distributed Fine-tuning of Language Models on Private Data](https://openreview.net/pdf?id=HkgNdt26Z), ICLR 2018.
-* [Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616/), IEEE GLOBECOM 2018.
-    
+* [Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616/), IEEE GLOBECOM 2018. 
+* [When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom 2018.
 ### 2017
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017.
 * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. [[Code](https://github.com/SAP/machine-learning-diff-private-federated-learning)]
 * [Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017. 
 * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017.
- 
 ### 2016
 * [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
