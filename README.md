@@ -11,6 +11,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
     - [2018](#2018)
     - [2017](#2017)
     - [2016](#2016)
+    - [2015](#2015)
   - [Libraries](#libraries)
   - [Tutorials](#tutorials)
   - [Datasets](#datasets)
@@ -50,6 +51,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ### 2016
 * [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
 * [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
+### 2015
+* [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf)
 
 ## Libraries
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - A PyTorch based library.
