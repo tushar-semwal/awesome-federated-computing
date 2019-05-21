@@ -17,6 +17,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - [Datasets](#datasets)
 
 ## Blogs
+* [Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/)
 * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 * [An Introduction to Federated Learning](http://vision.cloudera.com/an-introduction-to-federated-learning/)
 * [Federated learning: Distributed machine learning with data locality and privacy](https://blog.fastforwardlabs.com/2018/11/14/federated-learning.html)
