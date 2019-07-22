@@ -30,6 +30,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Research Papers
 ### 2019
+* [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1334598&dswid=-6117), Student thesis, KTH.
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC.
 * [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
 * [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019. [[Code](https://github.com/shaoxiongji/fed-att)]
