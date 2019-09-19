@@ -33,7 +33,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2019
-* [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/pdf/1906.04329.pdf), preprint 2019
+* [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/abs/1906.04329), preprint 2019
 * [Towards Faster and Better Federated Learning: A Feature Fusion Approach](https://ieeexplore.ieee.org/abstract/document/8803001/), ICIP 2019
 * [Decentralized Bayesian Learning over Graphs
 ](https://arxiv.org/pdf/1905.10466.pdf), preprint 2019
