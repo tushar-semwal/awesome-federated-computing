@@ -72,9 +72,9 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
 ## Libraries
-* [PySyft - Github](https://github.com/OpenMined/PySyft) - A PyTorch based library.
+* [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
+* [PySyft-Tensoflow](https://github.com/OpenMined/PySyft-TensorFlow) - The TensorFlow bindings for PySyft
 * [Tensorflow Federated - TFF](https://www.tensorflow.org/federated) - A library on top of Tensorflow.
-* [Tensorflow Federated - Github](https://github.com/tensorflow/federated)
 * [Industrial Federated Learning Framework](https://github.com/WeBankFinTech/FATE), Federated AI Technology Enabler, WeBank AI
 * [PyTorch Federated Learning - Github](https://github.com/shaoxiongji/federated-learning)
 
