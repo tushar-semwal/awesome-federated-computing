@@ -33,6 +33,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2019
+* [Decentralized Federated Learning: A Segmented Gossip Approach](https://arxiv.org/abs/1908.07782), FML 2019
 * [Federated Learning-Based Computation Offloading Optimization in Edge Computing-Supported Internet of Things](https://ieeexplore.ieee.org/document/8728285), IEEE Access
 * [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/abs/1906.04329), preprint 2019
 * [Towards Faster and Better Federated Learning: A Feature Fusion Approach](https://ieeexplore.ieee.org/abstract/document/8803001/), ICIP 2019
@@ -47,8 +48,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019 [[Code](https://github.com/shaoxiongji/fed-att)]
 * [Federated Learning of Out-of-Vocabulary Words](https://arxiv.org/pdf/1903.10635.pdf)
 * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
-* [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146)  
-* [Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173)
+* [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint 2019
+* [Peer-to-peer Federated Learning on Graphs](https://arxiv.org/abs/1901.11173) preprint 2019
 ### 2018
 * [How to backdoor federated learning](https://arxiv.org/pdf/1807.00459), preprint, 2018
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
