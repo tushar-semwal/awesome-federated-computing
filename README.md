@@ -33,6 +33,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2019
+* [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455), IEEE RAL 2019
 * [Decentralized Federated Learning: A Segmented Gossip Approach](https://arxiv.org/abs/1908.07782), FML 2019
 * [Federated Learning-Based Computation Offloading Optimization in Edge Computing-Supported Internet of Things](https://ieeexplore.ieee.org/document/8728285), IEEE Access
 * [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/abs/1906.04329), preprint 2019
