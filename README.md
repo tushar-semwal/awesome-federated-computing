@@ -26,6 +26,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5)
 
 ## Survey
+* [Advances and Open Problems in Federated Learning](https://hal.inria.fr/hal-02406503/document), HAL-Inria 2019
+* [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), preprint 2019
 * [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981), ACM TIST 2019
 * [Federated Learning: Challenges, Methods, and Future Directions](https://arxiv.org/pdf/1908.07873.pdf), 2019
 * [Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf), 2019
@@ -33,7 +35,6 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2019
-* [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), preprint 2019
 * [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455), IEEE RAL 2019
 * [Decentralized Federated Learning: A Segmented Gossip Approach](https://arxiv.org/abs/1908.07782), FML 2019
 * [Federated Learning-Based Computation Offloading Optimization in Edge Computing-Supported Internet of Things](https://ieeexplore.ieee.org/document/8728285), IEEE Access
