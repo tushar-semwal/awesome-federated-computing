@@ -62,10 +62,10 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616/), IEEE GLOBECOM 2018
 * [When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom 2018
 * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
-* [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097)
+* [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097) [[code]](https://github.com/TalwalkarLab/leaf)
 ### 2017
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
-* [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. [[Code](https://github.com/SAP/machine-learning-diff-private-federated-learning)]
+* [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. [[code](https://github.com/SAP/machine-learning-diff-private-federated-learning)]
 * [Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017 
 * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017
 ### 2016
