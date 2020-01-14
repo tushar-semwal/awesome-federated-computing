@@ -25,7 +25,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning: The Future of Distributed Machine Learning](https://medium.com/syncedreview/federated-learning-the-future-of-distributed-machine-learning-eec95242d897)
 * [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5)
 
-## Survey
+## Survey Papers
 * [Advances and Open Problems in Federated Learning](https://hal.inria.fr/hal-02406503/document), HAL-Inria 2019
 * [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), preprint 2019
 * [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981), ACM TIST 2019
