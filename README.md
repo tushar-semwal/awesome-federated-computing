@@ -13,7 +13,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
     - [2017](#2017)
     - [2016](#2016)
     - [2015](#2015)
-  - [Libraries](#libraries)
+  - [Libraries/Frameworks](#libraries)
   - [Tutorials](#tutorials)
   - [Datasets](#datasets)
 
@@ -74,7 +74,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ### 2015
 * [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
-## Libraries
+## Libraries/Frameworks
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
 * [PySyft-Tensoflow](https://github.com/OpenMined/PySyft-TensorFlow) - The TensorFlow bindings for PySyft
 * [Tensorflow Federated - TFF](https://www.tensorflow.org/federated) - A library on top of Tensorflow.
