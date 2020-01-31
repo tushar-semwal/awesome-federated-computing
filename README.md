@@ -6,14 +6,14 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Contents
   - [Blogs](#blogs)
-  - [Survey Papers](#survey)
+  - [Survey Papers](#survey-papers)
   - [Research Papers](#research-papers)
     - [2019](#2019)
     - [2018](#2018)
     - [2017](#2017)
     - [2016](#2016)
     - [2015](#2015)
-  - [Libraries/Frameworks](#libraries)
+  - [Libraries/Frameworks](#librariesframeworks)
   - [Tutorials](#tutorials)
   - [Datasets](#datasets)
 
