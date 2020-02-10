@@ -32,14 +32,18 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), preprint, 2019
   
 ## Research Papers
+### 2020
+* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020
+  
+
 ### 2019
+* [FADL:Federated-Autonomous Deep Learning for Distributed Electronic Health Record](https://arxiv.org/pdf/1811.11400.pdf), NIPS 2018 Workshop 
 * [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/pdf/1906.04329.pdf), preprint 2019
 * [Towards Faster and Better Federated Learning: A Feature Fusion Approach](https://ieeexplore.ieee.org/abstract/document/8803001/), ICIP 2019
 * [Decentralized Bayesian Learning over Graphs
 ](https://arxiv.org/pdf/1905.10466.pdf), preprint 2019
 * [Federated Multi-task Hierarchical Attention Model for Sensor Analytics](https://arxiv.org/pdf/1905.05142.pdf), preprint 2019
 * [FFD: A Federated Learning Based Method for Credit Card Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-030-23551-2_2), International Conference on Big Data 2019.
-* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), preprint 2019
 * [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1334598&dswid=-6117), Student thesis, KTH.
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC.
 * [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
