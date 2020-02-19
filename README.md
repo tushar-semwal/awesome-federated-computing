@@ -86,6 +86,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
 ## Libraries/Frameworks
+* [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
 * [PySyft-Tensoflow](https://github.com/OpenMined/PySyft-TensorFlow) - The TensorFlow bindings for PySyft
 * [Tensorflow Federated - TFF](https://www.tensorflow.org/federated) - A library on top of Tensorflow.
