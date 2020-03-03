@@ -36,9 +36,15 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ## Research Papers
 ### 2020
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020
-  
+* [Knowledge Federation: Hierarchy and Unification](https://arxiv.org/pdf/2002.01647.pdf), Preprint
+* [Federated Learning in Vehicular Edge Computing: A Selective Model Aggregation Approach](https://ieeexplore.ieee.org/abstract/document/8964354), IEEE Access 2020  
+* [Multi-Participant Multi-Class Vertical Federated Learning](https://arxiv.org/pdf/2001.11154.pdf), preprint
+* [Accelerating DNN Training in Wireless Federated
+Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint 
 
 ### 2019
+* [Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning](https://arxiv.org/abs/1805.05838), preprint
+* [Accelerating DNN Training in Wireless Federated Edge Learning System](https://arxiv.org/abs/1905.09712), preprint
 * [FADL:Federated-Autonomous Deep Learning for Distributed Electronic Health Record](https://arxiv.org/pdf/1811.11400.pdf), NIPS 2018 Workshop 
 * [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/pdf/1906.04329.pdf), preprint 2019
 * [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455), IEEE RAL 2019
