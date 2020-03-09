@@ -50,7 +50,6 @@ Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint
 * [Lifelong Federated Reinforcement Learning: A Learning Architecture for Navigation in Cloud Robotic Systems](https://arxiv.org/abs/1901.06455), IEEE RAL 2019
 * [Decentralized Federated Learning: A Segmented Gossip Approach](https://arxiv.org/abs/1908.07782), FML 2019
 * [Federated Learning-Based Computation Offloading Optimization in Edge Computing-Supported Internet of Things](https://ieeexplore.ieee.org/document/8728285), IEEE Access
-* [Federated Learning for Emoji Prediction in a Mobile Keyboard](https://arxiv.org/abs/1906.04329), preprint 2019
 * [Towards Faster and Better Federated Learning: A Feature Fusion Approach](https://ieeexplore.ieee.org/abstract/document/8803001/), ICIP 2019
 * [Decentralized Bayesian Learning over Graphs](https://arxiv.org/pdf/1905.10466.pdf), preprint 2019
 * [Federated Multi-task Hierarchical Attention Model for Sensor Analytics](https://arxiv.org/pdf/1905.05142.pdf), preprint 2019
@@ -59,12 +58,7 @@ Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC.
 * [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
 * [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019. [[Code](https://github.com/shaoxiongji/fed-att)]
-* [FFD: A Federated Learning Based Method for Credit Card Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-030-23551-2_2), International Conference on Big Data 2019
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), preprint 2019
-* [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1334598&dswid=-6117), Student thesis, KTH
-* [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC
-* [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272), preprint 2019
-* [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019 [[Code](https://github.com/shaoxiongji/fed-att)]
 * [Federated Learning of Out-of-Vocabulary Words](https://arxiv.org/pdf/1903.10635.pdf)
 * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint 2019
