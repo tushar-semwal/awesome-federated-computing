@@ -43,6 +43,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint 
 
 ### 2019
+* [The Non-IID Data Quagmire of Decentralized Machine Learning](https://arxiv.org/abs/1910.00189), preprint
 * [Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning](https://arxiv.org/abs/1805.05838), preprint
 * [Accelerating DNN Training in Wireless Federated Edge Learning System](https://arxiv.org/abs/1905.09712), preprint
 * [FADL:Federated-Autonomous Deep Learning for Distributed Electronic Health Record](https://arxiv.org/pdf/1811.11400.pdf), NIPS 2018 Workshop 
