@@ -36,7 +36,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2020
-* [Federated Learning of a Mixture of Global and Local Models](https://arxiv.org/abs/2002.05516), prepreint
+* [Federated Learning of a Mixture of Global and Local Models](https://arxiv.org/abs/2002.05516), preprint
 * [Federated Learning with Matched Averaging](https://arxiv.org/pdf/2002.06440.pdf), ICLR 2020
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020
 * [Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning](https://arxiv.org/abs/2003.09603), preprint
