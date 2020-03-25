@@ -26,6 +26,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5)
 
 ## Survey Papers
+* [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673.pdf), preprint 2020
 * [Advances and Open Problems in Federated Learning](https://hal.inria.fr/hal-02406503/document), HAL-Inria 2019
 * [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), preprint 2019
 * [Federated Machine Learning: Concept and Applications](https://dl.acm.org/citation.cfm?id=3298981), ACM TIST 2019
@@ -35,12 +36,14 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2020
+* [Federated Learning with Matched Averaging](https://arxiv.org/pdf/2002.06440.pdf), ICLR 2020
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020
+* [Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning](https://arxiv.org/abs/2003.09603), preprint
 * [Knowledge Federation: Hierarchy and Unification](https://arxiv.org/pdf/2002.01647.pdf), Preprint
+* [Decentralized Knowledge Acquisition for Mobile Internet Applications](https://link.springer.com/article/10.1007/s11280-019-00775-w), World Wide Web 2020
 * [Federated Learning in Vehicular Edge Computing: A Selective Model Aggregation Approach](https://ieeexplore.ieee.org/abstract/document/8964354), IEEE Access 2020  
 * [Multi-Participant Multi-Class Vertical Federated Learning](https://arxiv.org/pdf/2001.11154.pdf), preprint
-* [Accelerating DNN Training in Wireless Federated
-Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint 
+* [Accelerating DNN Training in Wireless Federated Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint 
 
 ### 2019
 * [The Non-IID Data Quagmire of Decentralized Machine Learning](https://arxiv.org/abs/1910.00189), preprint
