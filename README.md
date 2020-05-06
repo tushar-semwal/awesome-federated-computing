@@ -106,3 +106,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Datasets
 * [LEAF](https://github.com/TalwalkarLab/leaf)
+
+## Projects
+* PhotoLabeller by [Jose A. Corbacho](https://github.com/mccorby)
+  - [Client](https://github.com/mccorby/PhotoLabeller)
+  - [Server](https://github.com/mccorby/PhotoLabellerServer)
