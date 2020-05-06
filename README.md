@@ -17,6 +17,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - [Libraries/Frameworks](#librariesframeworks)
   - [Tutorials](#tutorials)
   - [Datasets](#datasets)
+  - [Projects](#projects)
 
 ## Blogs
 * [Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/)
