@@ -88,9 +88,9 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017 
 * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017
 ### 2016
-* [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482)
-* [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492)
-* [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527)
+* [Practical Secure Aggregation for Federated Learning on User-Held Data](https://arxiv.org/abs/1611.04482), preprint
+* [Federated Learning: Strategies for Improving Communication Efficiency](https://arxiv.org/abs/1610.05492), preprint
+* [Federated Optimization: Distributed Machine Learning for On-Device Intelligence](https://arxiv.org/abs/1610.02527), preprint
 ### 2015
 * [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
