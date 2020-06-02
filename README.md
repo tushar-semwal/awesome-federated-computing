@@ -68,7 +68,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC.
 * [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
 * [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019. [[Code](https://github.com/shaoxiongji/fed-att)]
-* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), preprint 
+* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189) [code](https://github.com/lx10077/fedavgpy), preprint 
 * [Federated Learning of Out-of-Vocabulary Words](https://arxiv.org/pdf/1903.10635.pdf)
 * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint 2019
