@@ -44,7 +44,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), preprint
 * [Federated Learning of a Mixture of Global and Local Models](https://arxiv.org/abs/2002.05516), preprint
 * [Federated Learning with Matched Averaging](https://arxiv.org/pdf/2002.06440.pdf), ICLR 2020
-* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020
+* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020. [[code](https://github.com/lx10077/fedavgpy)]
 * [Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning](https://arxiv.org/abs/2003.09603), preprint
 * [Knowledge Federation: Hierarchy and Unification](https://arxiv.org/pdf/2002.01647.pdf), Preprint
 * [Decentralized Knowledge Acquisition for Mobile Internet Applications](https://link.springer.com/article/10.1007/s11280-019-00775-w), World Wide Web, Springer journal
@@ -79,7 +79,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [How to backdoor federated learning](https://arxiv.org/pdf/1807.00459), preprint
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
 * [Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf)
-* [Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582), ICLR 2018. [[code](https://github.com/lx10077/fedavgpy)]
+* [Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582), preprint.
 * [Distributed Fine-tuning of Language Models on Private Data](https://openreview.net/pdf?id=HkgNdt26Z), ICLR 2018
 * [Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616/), IEEE GLOBECOM 2018
 * [When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom 2018
