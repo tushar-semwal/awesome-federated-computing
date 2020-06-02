@@ -44,7 +44,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), preprint
 * [Federated Learning of a Mixture of Global and Local Models](https://arxiv.org/abs/2002.05516), preprint
 * [Federated Learning with Matched Averaging](https://arxiv.org/pdf/2002.06440.pdf), ICLR 2020
-* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020. [[code](https://github.com/lx10077/fedavgpy)]
+* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020. [[code](https://github.com/lx10077/fedavgpy)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning](https://arxiv.org/abs/2003.09603), preprint
 * [Knowledge Federation: Hierarchy and Unification](https://arxiv.org/pdf/2002.01647.pdf), Preprint
 * [Decentralized Knowledge Acquisition for Mobile Internet Applications](https://link.springer.com/article/10.1007/s11280-019-00775-w), World Wide Web, Springer journal
@@ -68,8 +68,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1334598&dswid=-6117), Student thesis, KTH.
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC.
 * [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
-* [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019. [[Code](https://github.com/shaoxiongji/fed-att)]
-* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), preprint. [[code](https://github.com/lx10077/fedavgpy)]
+* [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019. [[Code](https://github.com/shaoxiongji/fed-att)] 
+* [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), preprint. [[code](https://github.com/lx10077/fedavgpy)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Learning of Out-of-Vocabulary Words](https://arxiv.org/pdf/1903.10635.pdf)
 * [Towards Federated Learning at Scale: System Design](https://arxiv.org/abs/1902.01046)
 * [Agnostic Federated Learning](https://arxiv.org/abs/1902.00146) preprint 2019
@@ -84,11 +84,11 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616/), IEEE GLOBECOM 2018
 * [When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom 2018
 * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
-* [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097), preprint. [[code](https://github.com/TalwalkarLab/leaf)] 
+* [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097), preprint. [[code](https://github.com/TalwalkarLab/leaf)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png) 
 * [Federated Learning for Mobile Keyboard Prediction - Gboard](https://arxiv.org/abs/1811.03604)
 ### 2017
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
-* [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. [[code](https://github.com/SAP/machine-learning-diff-private-federated-learning)]
+* [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. [[code](https://github.com/SAP/machine-learning-diff-private-federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Tensor Factorization for Computational Phenotyping](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5652331/), KDD 2017 
 * [Federated Multi-Task Learning](http://papers.nips.cc/paper/7029-federated-multi-task-learning.pdf), NIPS 2017
 ### 2016
