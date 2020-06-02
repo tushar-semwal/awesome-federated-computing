@@ -78,12 +78,12 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [How to backdoor federated learning](https://arxiv.org/pdf/1807.00459), preprint
 * [Client Selection for Federated Learning with Heterogeneous Resources in Mobile Edge](https://arxiv.org/abs/1804.08333)
 * [Federated Kernelized Multi-Task Learning](http://www.sysml.cc/doc/30.pdf)
-* [Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582), ICLR 2018, [[code](https://github.com/lx10077/fedavgpy)]
+* [Federated Learning with Non-IID Data](https://arxiv.org/abs/1806.00582), ICLR 2018. [[code](https://github.com/lx10077/fedavgpy)]
 * [Distributed Fine-tuning of Language Models on Private Data](https://openreview.net/pdf?id=HkgNdt26Z), ICLR 2018
 * [Federated Learning Based Proactive Content Caching in Edge Computing](https://ieeexplore.ieee.org/abstract/document/8647616/), IEEE GLOBECOM 2018
 * [When Edge Meets Learning: Adaptive Control for Resource-Constrained Distributed Machine Learning](http://www.commsp.ee.ic.ac.uk/~wiser/dais-ita/tiffany_papers/infocom_2018.pdf), IEEE Infocom 2018
 * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
-* [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097), preprint, [[code](https://github.com/TalwalkarLab/leaf)]
+* [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097), preprint. [[code](https://github.com/TalwalkarLab/leaf)]
 * [Federated Learning for Mobile Keyboard Prediction - Gboard](https://arxiv.org/abs/1811.03604)
 ### 2017
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
