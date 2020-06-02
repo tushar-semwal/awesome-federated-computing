@@ -65,7 +65,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Decentralized Bayesian Learning over Graphs](https://arxiv.org/pdf/1905.10466.pdf), preprint
 * [Federated Multi-task Hierarchical Attention Model for Sensor Analytics](https://arxiv.org/pdf/1905.05142.pdf), preprint
 * [FFD: A Federated Learning Based Method for Credit Card Fraud Detection](https://link.springer.com/chapter/10.1007/978-3-030-23551-2_2), International Conference on Big Data 2019.
-* [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1334598&dswid=-6117), Student thesis, KTH.
+* [Federated Learning for Time Series Forecasting Using LSTM Networks: Exploiting Similarities Through Clustering](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1334598&dswid=-6117), Student thesis, KTH
 * [Adaptive Federated Learning in Resource Constrained Edge Computing Systems](https://arxiv.org/abs/1804.05271), IEEE JSAC.
 * [Privacy-Preserving Deep Learning via Weight Transmission](https://arxiv.org/abs/1809.03272)
 * [Learning Private Neural Language Modeling with Attentive Aggregation](https://arxiv.org/pdf/1812.07108), IJCNN 2019. [[Code](https://github.com/shaoxiongji/fed-att)] 
