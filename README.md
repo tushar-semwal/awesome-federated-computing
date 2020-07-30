@@ -39,7 +39,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2020
-* [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390)m preprint [[code](https://flower.dev/)] ![alt text]
+* [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390)m preprint [[code](https://flower.dev/)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Deep Reinforcement Learning for Internet of Things with Decentralized Cooperative Edge Caching](https://doi.org/10.1109/JIOT.2020.2986803), IEEE IoT journal
 * [Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619), preprint
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), preprint
