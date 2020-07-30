@@ -39,7 +39,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2020
-* [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390)m preprint [[code](https://flower.dev/)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390), preprint [[code](https://flower.dev/)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Deep Reinforcement Learning for Internet of Things with Decentralized Cooperative Edge Caching](https://doi.org/10.1109/JIOT.2020.2986803), IEEE IoT journal
 * [Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619), preprint
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), preprint
@@ -47,7 +47,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning with Matched Averaging](https://arxiv.org/pdf/2002.06440.pdf), ICLR 2020
 * [On the Convergence of FedAvg on Non-IID Data](https://arxiv.org/abs/1907.02189), ICLR 2020. [[code](https://github.com/lx10077/fedavgpy)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Dynamic Sampling and Selective Masking for Communication-Efficient Federated Learning](https://arxiv.org/abs/2003.09603), preprint
-* [Knowledge Federation: Hierarchy and Unification](https://arxiv.org/pdf/2002.01647.pdf), Preprint
+* [Knowledge Federation: Hierarchy and Unification](https://arxiv.org/pdf/2002.01647.pdf), preprint
 * [Decentralized Knowledge Acquisition for Mobile Internet Applications](https://link.springer.com/article/10.1007/s11280-019-00775-w), World Wide Web, Springer journal
 * [Federated Learning in Vehicular Edge Computing: A Selective Model Aggregation Approach](https://ieeexplore.ieee.org/abstract/document/8964354), IEEE Access 2020  
 * [Multi-Participant Multi-Class Vertical Federated Learning](https://arxiv.org/pdf/2001.11154.pdf), preprint
