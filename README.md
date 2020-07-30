@@ -39,6 +39,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2020
+* [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390)m preprint [[code](https://flower.dev/)] ![alt text]
 * [Federated Deep Reinforcement Learning for Internet of Things with Decentralized Cooperative Edge Caching](https://doi.org/10.1109/JIOT.2020.2986803), IEEE IoT journal
 * [Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619), preprint
 * [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758), preprint
@@ -100,6 +101,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
 ## Libraries/Frameworks
+* [Flower](https://flower.dev/) - A friendly federated learning research framework.
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
 * [PySyft-Tensoflow](https://github.com/OpenMined/PySyft-TensorFlow) - The TensorFlow bindings for PySyft
