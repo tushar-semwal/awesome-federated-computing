@@ -52,6 +52,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning in Vehicular Edge Computing: A Selective Model Aggregation Approach](https://ieeexplore.ieee.org/abstract/document/8964354), IEEE Access 2020  
 * [Multi-Participant Multi-Class Vertical Federated Learning](https://arxiv.org/pdf/2001.11154.pdf), preprint
 * [Accelerating DNN Training in Wireless Federated Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint 
+* [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 [[code](https://github.com/litian96/FedProx)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 
 ### 2019
 * [The Non-IID Data Quagmire of Decentralized Machine Learning](https://arxiv.org/abs/1910.00189), preprint
