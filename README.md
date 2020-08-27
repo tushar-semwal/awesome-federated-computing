@@ -39,6 +39,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2020
+* [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 [[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)]
 * [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390), preprint [[code](https://flower.dev/)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Deep Reinforcement Learning for Internet of Things with Decentralized Cooperative Edge Caching](https://doi.org/10.1109/JIOT.2020.2986803), IEEE IoT journal
 * [Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619), preprint
@@ -55,6 +56,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 [[code](https://github.com/litian96/FedProx)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 
 ### 2019
+* [Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification](https://arxiv.org/abs/1909.06335), preprint
 * [The Non-IID Data Quagmire of Decentralized Machine Learning](https://arxiv.org/abs/1910.00189), preprint
 * [Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning](https://arxiv.org/abs/1805.05838), preprint
 * [Accelerating DNN Training in Wireless Federated Edge Learning System](https://arxiv.org/abs/1905.09712), preprint
@@ -116,6 +118,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 ## Datasets
 * [LEAF](https://github.com/TalwalkarLab/leaf)
+* [Federated iNaturalist/Landmarks](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)
 
 ## Projects
 * PhotoLabeller by [Jose A. Corbacho](https://github.com/mccorby)
