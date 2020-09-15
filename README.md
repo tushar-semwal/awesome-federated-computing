@@ -39,7 +39,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2020
-* [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518), preprint [[code](https://github.com/FedML-AI/FedML)]![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518), preprint [[code](https://github.com/FedML-AI/FedML)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 [[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390), preprint [[code](https://flower.dev/)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Deep Reinforcement Learning for Internet of Things with Decentralized Cooperative Edge Caching](https://doi.org/10.1109/JIOT.2020.2986803), IEEE IoT journal
