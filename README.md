@@ -21,6 +21,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - [Projects](#projects)
 
 ## Blogs
+* [Learn to adapt Flower for your use-case](https://flower.dev/blog)
 * [Online Comic from Google AI on Federated Learning](https://federated.withgoogle.com/)
 * [Federated Learning: Collaborative Machine Learning without Centralized Training Data](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 * [An Introduction to Federated Learning](http://vision.cloudera.com/an-introduction-to-federated-learning/)
@@ -117,6 +118,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [PyTorch Federated Learning - Github](https://github.com/shaoxiongji/federated-learning)
 
 ## Tutorials
+* [Flower](https://flower.dev/docs/example_walkthrough_pytorch_mnist.html)
 * [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
 * [TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification) 
 
