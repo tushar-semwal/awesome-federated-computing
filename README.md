@@ -109,13 +109,13 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Privacy-Preserving Deep Learning](https://www.comp.nus.edu.sg/~reza/files/Shokri-CCS2015.pdf), ACM SIGSAC 2015
 
 ## Libraries/Frameworks
-* [Flower](https://flower.dev/) - A friendly federated learning research framework.
-* [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [PySyft - Github](https://github.com/OpenMined/PySyft) - The PyTorch based library.
-* [PySyft-Tensoflow](https://github.com/OpenMined/PySyft-TensorFlow) - The TensorFlow bindings for PySyft
 * [Tensorflow Federated - TFF](https://www.tensorflow.org/federated) - A library on top of Tensorflow.
 * [Industrial Federated Learning Framework](https://github.com/WeBankFinTech/FATE), Federated AI Technology Enabler, WeBank AI
 * [PyTorch Federated Learning - Github](https://github.com/shaoxiongji/federated-learning)
+* [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
+* [Flower](https://flower.dev/) - A friendly federated learning research framework.
+
 
 ## Tutorials
 * [Flower](https://flower.dev/docs/example_walkthrough_pytorch_mnist.html)
