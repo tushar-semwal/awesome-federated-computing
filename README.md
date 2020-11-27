@@ -1,9 +1,7 @@
 # Awesome Federated Computing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A collection of research papers, codes, tutorials and blogs on ML carried out in a federated manner (distributed;decentralized).
 
-**Maintainer** - [Tushar Semwal](https://github.com/tushar-semwal)  
-**Contributors** - [Shaoxiong Ji](https://shaoxiongji.github.io)
-
+**Maintainer** - [Tushar Semwal](https://github.com/tushar-semwal)
 
 ## Contents
   - [Blogs](#blogs)
