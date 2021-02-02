@@ -37,7 +37,10 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), preprint, 2019
   
 ## Research Papers
+### 2021
+* [Federated Learning over Noisy Channels: Convergence Analysis and Design Examples](https://arxiv.org/abs/2101.02198), preprint
 ### 2020
+* [Turn Signal Prediction: A Federated Learning Case Study](https://arxiv.org/abs/2012.12401), preprint
 * [FedPerf: A Practitioners’ Guide to Performance of Federated Learning Algorithms](https://osf.io/q3vkt), preprint
 * [WAFFLe: Weight Anonymized Factorization for Federated Learning](https://arxiv.org/abs/2008.05687), preprint
 * [Fed+: A Family of Fusion Algorithms for Federated Learning](https://arxiv.org/abs/2009.06303), preprint
