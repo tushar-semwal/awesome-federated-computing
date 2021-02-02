@@ -7,6 +7,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - [Blogs](#blogs)
   - [Survey Papers](#survey-papers)
   - [Research Papers](#research-papers)
+    - [2021](#2021)
     - [2020](#2020)
     - [2019](#2019)
     - [2018](#2018)
