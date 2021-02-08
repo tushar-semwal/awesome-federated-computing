@@ -63,6 +63,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 [[code](https://github.com/litian96/FedProx)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 
 ### 2019
+* [Federated Learning for Ranking Browser History Suggestions](https://arxiv.org/abs/1911.11807), preprint. [[Code](https://github.com/florian/federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification](https://arxiv.org/abs/1909.06335), preprint
 * [The Non-IID Data Quagmire of Decentralized Machine Learning](https://arxiv.org/abs/1910.00189), preprint
 * [Gradient-Leaks: Understanding and Controlling Deanonymization in Federated Learning](https://arxiv.org/abs/1805.05838), preprint
