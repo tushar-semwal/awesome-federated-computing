@@ -46,6 +46,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [FedPerf: A Practitioners’ Guide to Performance of Federated Learning Algorithms](https://osf.io/q3vkt), preprint
 * [WAFFLe: Weight Anonymized Factorization for Federated Learning](https://arxiv.org/abs/2008.05687), preprint
 * [Fed+: A Family of Fusion Algorithms for Federated Learning](https://arxiv.org/abs/2009.06303), preprint
+* [Fast-Convergent Federated Learning](https://arxiv.org/pdf/2007.13137.pdf), preprint
 * [FedML: A Research Library and Benchmark for Federated Machine Learning](https://arxiv.org/abs/2007.13518), preprint [[code](https://github.com/FedML-AI/FedML)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Visual Classification with Real-World Data Distribution](https://arxiv.org/abs/2003.08082), ECCV 2020 [[code](https://github.com/google-research/google-research/tree/master/federated_vision_datasets)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Flower: A Friendly Federated Learning Research Framework](https://arxiv.org/abs/2007.14390), preprint [[code](https://flower.dev/)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
