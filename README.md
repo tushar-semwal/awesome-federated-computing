@@ -39,6 +39,16 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2021
+* [FedAUX: Leveraging Unlabeled Auxiliary Data in Federated Learning](https://arxiv.org/abs/2102.02514), preprint
+* [A Bayesian Federated Learning Framework with Multivariate Gaussian Product](https://arxiv.org/abs/2102.01936), preprint
+* [Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9345723), IEEE Access
+* [FedProf: Optimizing Federated Learning with Dynamic Data Profiling](https://arxiv.org/abs/2102.01733), ICML2020
+* [Toward Resource-Efficient Federated Learning in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9354925?casa_token=UUM11Ln9a_MAAAAA:I_t1tncSN1LMKrfFZ1dH-hLma2eTvy68Xw1zYZH-29e9jTTLwK3Eu53q-74-IoeZykALKWXvSg), IEEE Network
+* [Scaling Neuroscience Research using Federated Learning](https://arxiv.org/abs/2102.08440), preprint
+* [Exploiting Shared Representations for Personalized Federated Learning](https://arxiv.org/abs/2102.07078), preprint
+* [FedSA: A staleness-aware asynchronous Federated Learning algorithm with non-IID data](https://www.sciencedirect.com/science/article/abs/pii/S0167739X21000649), FGCS Elsevier
+* [Blockchained Federated Learning for Threat Defense](https://arxiv.org/abs/2102.12746)
+* [Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning](https://arxiv.org/abs/2102.12920), preprint
 * [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://arxiv.org/abs/2102.07623), ICLR 2021 [[code](https://github.com/med-air/FedBN)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Learning over Noisy Channels: Convergence Analysis and Design Examples](https://arxiv.org/abs/2101.02198), preprint
 ### 2020
@@ -65,7 +75,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 [[code](https://github.com/litian96/FedProx)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 
 ### 2019
-* [Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints], IEEE Transaction on Neural Nets, [[Code](https://github.com/felisat/clustered-federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)https://github.com/felisat/clustered-federated-learning
+* [Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints](https://arxiv.org/abs/1910.01991), IEEE Transaction on Neural Nets, [[Code](https://github.com/felisat/clustered-federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)https://github.com/felisat/clustered-federated-learning
 * [Federated Learning for Ranking Browser History Suggestions](https://arxiv.org/abs/1911.11807), preprint. [[Code](https://github.com/florian/federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Measuring the Effects of Non-Identical Data Distribution for Federated Visual Classification](https://arxiv.org/abs/1909.06335), preprint
 * [The Non-IID Data Quagmire of Decentralized Machine Learning](https://arxiv.org/abs/1910.00189), preprint
