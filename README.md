@@ -147,3 +147,6 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * PhotoLabeller by [Jose A. Corbacho](https://github.com/mccorby)
   - [Client](https://github.com/mccorby/PhotoLabeller)
   - [Server](https://github.com/mccorby/PhotoLabellerServer)
+* Ownership Protocol by [Qibing Lee](https://github.com/ownership-labs)
+  - [DataToken](https://github.com/ownership-labs/DataToken)
+  - [Compute-to-Data](https://github.com/ownership-labs/Compute-to-Data)
