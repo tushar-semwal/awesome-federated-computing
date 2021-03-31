@@ -52,7 +52,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://arxiv.org/abs/2102.07623), ICLR 2021 [[code](https://github.com/med-air/FedBN)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Learning over Noisy Channels: Convergence Analysis and Design Examples](https://arxiv.org/abs/2101.02198), preprint
 ### 2020
-* [Multi-Center Federated Learning](https://arxiv.org/abs/2005.01026)[[code](https://github.com/anonymousgit2020/fedsem)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [Multi-Center Federated Learning](https://arxiv.org/abs/2005.01026) [[code](https://github.com/anonymousgit2020/fedsem)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Turn Signal Prediction: A Federated Learning Case Study](https://arxiv.org/abs/2012.12401), preprint
 * [FedPerf: A Practitioners’ Guide to Performance of Federated Learning Algorithms](https://osf.io/q3vkt), preprint
 * [WAFFLe: Weight Anonymized Factorization for Federated Learning](https://arxiv.org/abs/2008.05687), preprint
