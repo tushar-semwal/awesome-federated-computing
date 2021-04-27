@@ -39,7 +39,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2021
-* [TOWARDS CAUSAL FEDERATED LEARNING FOR ENHANCED ROBUSTNESS AND PRIVACY](https://arxiv.org/pdf/2104.06557.pdf), ICLR DPML 2021
+* [Towards Causal Federated Learning For Enhanced Robustness And Privacy](https://arxiv.org/pdf/2104.06557.pdf), ICLR DPML 2021
 * [FedAUX: Leveraging Unlabeled Auxiliary Data in Federated Learning](https://arxiv.org/abs/2102.02514), preprint
 * [A Bayesian Federated Learning Framework with Multivariate Gaussian Product](https://arxiv.org/abs/2102.01936), preprint
 * [Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9345723), IEEE Access
