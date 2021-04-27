@@ -39,6 +39,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   
 ## Research Papers
 ### 2021
+* [TOWARDS CAUSAL FEDERATED LEARNING FOR ENHANCED ROBUSTNESS AND PRIVACY](https://arxiv.org/pdf/2104.06557.pdf), ICLR DPML 2021
 * [FedAUX: Leveraging Unlabeled Auxiliary Data in Federated Learning](https://arxiv.org/abs/2102.02514), preprint
 * [A Bayesian Federated Learning Framework with Multivariate Gaussian Product](https://arxiv.org/abs/2102.01936), preprint
 * [Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9345723), IEEE Access
@@ -76,6 +77,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 [[code](https://github.com/litian96/FedProx)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 
 ### 2019
+* [Record and Reward Federated Learning Contributions with Blockchain](https://mblocklab.com/RecordandReward.pdf), IEEE CyberC 2019, [[Code]](https://github.com/sreyafrancis/BlockchainForFederatedLearning) ] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Clustered Federated Learning: Model-Agnostic Distributed Multi-Task Optimization under Privacy Constraints](https://arxiv.org/abs/1910.01991), IEEE Transaction on Neural Nets, [[Code](https://github.com/felisat/clustered-federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Robust and Communication-Efficient Federated Learning from Non-IID Data](https://arxiv.org/abs/1903.02891), preprint. [[Code](https://github.com/felisat/federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Learning for Ranking Browser History Suggestions](https://arxiv.org/abs/1911.11807), preprint. [[Code](https://github.com/florian/federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
