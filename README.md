@@ -137,6 +137,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [PyTorch Federated Learning - Github](https://github.com/shaoxiongji/federated-learning)
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [Flower](https://flower.dev/) - A friendly federated learning research framework.
+* [OpenFL](https://github.com/intel/openfl)] ![alt text]
 
 
 ## Tutorials
