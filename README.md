@@ -3,6 +3,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 
 **Maintainer** - [Tushar Semwal](https://github.com/tushar-semwal)
 
+*Please feel free to shoot me a PR.😊
+
 ## Contents
   - [Blogs](#blogs)
   - [Survey Papers](#survey-papers)
