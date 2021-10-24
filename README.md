@@ -137,13 +137,13 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [PyTorch Federated Learning - Github](https://github.com/shaoxiongji/federated-learning)
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [Flower](https://flower.dev/) - A friendly federated learning research framework.
-* [OpenFL](https://github.com/intel/openfl)] ![alt text]
-
+* [OpenFL](https://github.com/intel/openfl) - An open-source framework for Federated Learning on top of TF/PyTorch/etc. 
 
 ## Tutorials
 * [Flower](https://flower.dev/docs/example_walkthrough_pytorch_mnist.html)
 * [PySyft](https://github.com/OpenMined/PySyft/tree/dev/examples/tutorials)
 * [TFF](https://www.tensorflow.org/federated/tutorials/federated_learning_for_image_classification) 
+* [OpenFL](https://github.com/intel/openfl/tree/develop/openfl-tutorials/)
 
 ## Datasets
 * [LEAF](https://github.com/TalwalkarLab/leaf)
