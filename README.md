@@ -41,6 +41,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 ### 2021
 * [Towards Causal Federated Learning For Enhanced Robustness And Privacy](https://arxiv.org/pdf/2104.06557.pdf), ICLR DPML 2021
 * [FedAUX: Leveraging Unlabeled Auxiliary Data in Federated Learning](https://arxiv.org/abs/2102.02514), preprint
+* [OpenFL: An open-source framework for Federated Learning](https://arxiv.org/abs/2105.06413), preprint. [[code](https://github.com/intel/openfl)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [A Bayesian Federated Learning Framework with Multivariate Gaussian Product](https://arxiv.org/abs/2102.01936), preprint
 * [Client Selection for Federated Learning With Non-IID Data in Mobile Edge Computing](https://ieeexplore.ieee.org/abstract/document/9345723), IEEE Access
 * [FedProf: Optimizing Federated Learning with Dynamic Data Profiling](https://arxiv.org/abs/2102.01733), ICML2020
@@ -53,6 +54,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://arxiv.org/abs/2102.07623), ICLR 2021 [[code](https://github.com/med-air/FedBN)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Learning over Noisy Channels: Convergence Analysis and Design Examples](https://arxiv.org/abs/2101.02198), preprint
 ### 2020
+* [Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data](https://www.nature.com/articles/s41598-020-69250-1), Nature Scientific Reports.
 * [Multi-Center Federated Learning](https://arxiv.org/abs/2005.01026), preprint [[code](https://github.com/anonymousgit2020/fedsem)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Turn Signal Prediction: A Federated Learning Case Study](https://arxiv.org/abs/2012.12401), preprint
 * [FedPerf: A Practitioners’ Guide to Performance of Federated Learning Algorithms](https://osf.io/q3vkt), preprint
@@ -136,7 +138,6 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Paddle Federated Learning](https://github.com/PaddlePaddle/PaddleFL) - Federated Deep Learning in PaddlePaddle.
 * [Flower](https://flower.dev/) - A friendly federated learning research framework.
 * [OpenFL](https://github.com/intel/openfl) - An open-source framework for Federated Learning on top of TF/PyTorch/etc. 
-
 
 ## Tutorials
 * [Flower](https://flower.dev/docs/example_walkthrough_pytorch_mnist.html)
