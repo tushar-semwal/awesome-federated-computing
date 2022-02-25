@@ -55,6 +55,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Emerging Trends in Federated Learning: From Model Fusion to Federated X Learning](https://arxiv.org/abs/2102.12920), preprint
 * [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://arxiv.org/abs/2102.07623), ICLR 2021 [[code](https://github.com/med-air/FedBN)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 * [Federated Learning over Noisy Channels: Convergence Analysis and Design Examples](https://arxiv.org/abs/2101.02198), preprint
+* [FedSim: Similarity guided model aggregation for Federated Learning](https://www.sciencedirect.com/science/article/abs/pii/S0925231221016039), Neurocomputing Journal, [[code](https://github.com/chamathpali/FedSim)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
 ### 2020
 * [Federated learning in medicine: facilitating multi-institutional collaborations without sharing patient data](https://www.nature.com/articles/s41598-020-69250-1), Nature Scientific Reports.
 * [Multi-Center Federated Learning](https://arxiv.org/abs/2005.01026), preprint [[code](https://github.com/anonymousgit2020/fedsem)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
