@@ -31,6 +31,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Federated Learning for Wake Word Detection](https://medium.com/snips-ai/federated-learning-for-wake-word-detection-c8b8c5cdd2c5)
 
 ## Survey Papers
+* [Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies](https://ieeexplore.ieee.org/document/9780218), IEEE TBD 2022
 * [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/pdf/2003.08673.pdf), preprint 2020
 * [Advances and Open Problems in Federated Learning](https://hal.inria.fr/hal-02406503/document), HAL-Inria 2019
 * [Federated Learning in Mobile Edge Networks: A Comprehensive Survey](https://arxiv.org/abs/1909.11875), preprint 2019
