@@ -81,6 +81,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Multi-Participant Multi-Class Vertical Federated Learning](https://arxiv.org/pdf/2001.11154.pdf), preprint
 * [Accelerating DNN Training in Wireless Federated Edge Learning System](https://arxiv.org/pdf/1905.09712.pdf), preprint 
 * [Federated Optimization in Heterogeneous Networks](https://arxiv.org/abs/1812.06127), MLSYS 2020 [[code](https://github.com/litian96/FedProx)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
+* [A Secure Federated Transfer Learning Framework](https://ieeexplore.ieee.org/document/9076003) IEEE Intelligent Systems 2020
+* [Federated Learning for Healthcare Informatics](https://arxiv.org/abs/1911.06270), preprint
 
 ### 2019
 * [Record and Reward Federated Learning Contributions with Blockchain](https://mblocklab.com/RecordandReward.pdf), IEEE CyberC 2019, [[Code]](https://github.com/sreyafrancis/BlockchainForFederatedLearning) ] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
@@ -121,6 +123,8 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [How To Backdoor Federated Learning](https://arxiv.org/abs/1807.00459)
 * [LEAF: A Benchmark for Federated Settings](https://arxiv.org/abs/1812.01097), preprint. [[code](https://github.com/TalwalkarLab/leaf)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png) 
 * [Federated Learning for Mobile Keyboard Prediction - Gboard](https://arxiv.org/abs/1811.03604)
+* [Federated learning of predictive models from federated Electronic Health Records](https://pubmed.ncbi.nlm.nih.gov/29500022/) PMID 2018
+
 ### 2017
 * [Communication-Efficient Learning of Deep Networks from Decentralized Data](https://arxiv.org/abs/1602.05629), AISTATS 2017
 * [Differentially Private Federated Learning: A Client Level Perspective](https://arxiv.org/abs/1712.07557), NIPS 2017 Workshop. [[code](https://github.com/SAP/machine-learning-diff-private-federated-learning)] ![alt text](https://github.com/tushar-semwal/awesome-federated-computing/blob/master/imgs/github-logo-16px.png)
