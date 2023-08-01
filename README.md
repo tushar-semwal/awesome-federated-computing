@@ -9,6 +9,7 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
   - [Blogs](#blogs)
   - [Survey Papers](#survey-papers)
   - [Research Papers](#research-papers)
+    - [2022](#2022)
     - [2021](#2021)
     - [2020](#2020)
     - [2019](#2019)
@@ -41,6 +42,10 @@ A collection of research papers, codes, tutorials and blogs on ML carried out in
 * [Convergence of Edge Computing and Deep Learning: A Comprehensive Survey](https://arxiv.org/pdf/1907.08349.pdf), preprint, 2019
   
 ## Research Papers
+
+### 2022
+* [Pisces: Efficient Federated Learning via Guided Asynchronous Training](https://dl.acm.org/doi/abs/10.1145/3542929.3563463), ACM SoCC 2022
+
 ### 2021
 * [Towards Causal Federated Learning For Enhanced Robustness And Privacy](https://arxiv.org/pdf/2104.06557.pdf), ICLR DPML 2021
 * [FedAUX: Leveraging Unlabeled Auxiliary Data in Federated Learning](https://arxiv.org/abs/2102.02514), preprint
